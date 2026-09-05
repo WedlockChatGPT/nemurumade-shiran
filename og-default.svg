@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">眠るまで知らん。</title>
+  <desc id="desc">眠れない夜に読む、理解できるのに、理解しても何の役にも立たない文章。</desc>
+  <rect width="1200" height="630" fill="#0b1016"/>
+  <circle cx="1020" cy="88" r="240" fill="#263442" opacity="0.35"/>
+  <line x1="90" y1="498" x2="1110" y2="498" stroke="#8396aa" stroke-opacity="0.28"/>
+  <text x="90" y="190" fill="#8396aa" font-size="24" font-family="sans-serif" letter-spacing="5">NIGHT OPERATIONS</text>
+  <text x="84" y="330" fill="#ece7dd" font-size="88" font-weight="700" font-family="sans-serif">眠るまで知らん。</text>
+  <text x="90" y="416" fill="#a8adb3" font-size="30" font-family="sans-serif">考察は明日の営業時間内にお願いします。</text>
+  <text x="90" y="554" fill="#747d86" font-size="20" font-family="sans-serif">本日の対応は終了しました。</text>
+</svg>
